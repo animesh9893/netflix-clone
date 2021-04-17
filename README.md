@@ -1,3 +1,16 @@
+# Developer steps
+
+after cloning this app please go to [tmdb for api key](https://www.themoviedb.org/)
+
+then just go to src and create file api.js
+
+on api.js paste api key like this
+
+    const API_KEY_ = "Your api key";
+    export {API_KEY_};
+
+and just run it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
